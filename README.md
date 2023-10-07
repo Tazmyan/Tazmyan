@@ -1,1 +1,3 @@
-![TAZ BIO SNIMKA LOL](https://github.com/Tazmyan/tazmyan/assets/89036793/b566fb71-11e1-4508-9720-2be035f1b7f5)
+<h1 align="center">Tazmayn🐐</h1>
+<img align="center" src="https://cdn.discordapp.com/attachments/1137047995574145066/1160239290001932298/TAZ_BIO_SNIMKA_LOL.png" />
+<h2>Im taz🙄</h2>
