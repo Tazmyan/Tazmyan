@@ -4,7 +4,7 @@
 
 
 <h2>
-  <a href="https://tazmyan.is-a.dev">Im taz🙄</a>
+  <a>Im taz🙄</a>
 </h2>
 
 
